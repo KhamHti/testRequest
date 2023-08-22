@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testRequest1",
-    "slug": "testRequest1",
+    "name": "testRequest",
+    "slug": "testRequest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
